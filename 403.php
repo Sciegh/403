@@ -18,19 +18,19 @@
         }
 
         h1 {
-            font-size: 60px; /* Increased font size */
+            font-size: 60px; 
             margin-bottom: 20px;
-            color: #3d1314; /* Text color */
+            color: #3d1314;
         }
 
         p {
-            font-size: 36px; /* Increased font size */
+            font-size: 36px; 
             margin-bottom: 20px;
-            color: #3d1314; /* Text color */
+            color: #3d1314; 
         }
 
         a {
-            font-size: 36px; /* Increased font size */
+            font-size: 36px; 
             color: #640f0f;
             text-decoration: none;
         }
